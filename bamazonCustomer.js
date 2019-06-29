@@ -21,7 +21,7 @@ connection.connect(function(err, res) {
 function startazon() {
   connection.query("SELECT * FROM products", function(err, res) {
     if (err) throw err;
-    console.table(res, ["item_id", "product_name", "price", "stock_quantity"]);
+    console.table(res, ["item_id", "product_name", "price"]);
     inquirer.prompt([
         {
             type: "number",
