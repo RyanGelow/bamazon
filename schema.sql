@@ -25,5 +25,3 @@ VALUES ("Top Hat", "Hats", 74.99, 25),
 ("Cross-Trainers", "Shoes", 50, 85),
 ("Rain Boots", "Shoes", 85, 25),
 ("Sandals", "Shoes", 20, 150);
-
-SELECT * FROM top_5000;
