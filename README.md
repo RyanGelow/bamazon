@@ -1,4 +1,4 @@
-# The BAMAZON Storefrontapp
+# The BAMAZON Storefront App
 
 1. This node application provides a basic utility to enter and manage inventory for sales purposes on both the customer and manager ends. It provides a menu to help direct user needs and updates through a mysql database. 
 
