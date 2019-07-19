@@ -33,15 +33,15 @@ This app uses the inquirer and mysql npm packages for both apps and references t
 
 4. Here are a few photo examples of the each node app:
     1. bamazonCustomer
-        * ![InsufficientQuantity] (./images/bamazon_customer_insufficient_quantity.png)
-        * ![OrderProcessed] (./images/bamazon_customer_order_processed.png)
-        * ![ProductList] (./images/bamazon_customer_product_list.png)
+        * ![InsufficientQuantity] (images/bamazon_customer_insufficient_quantity.png)
+        * ![OrderProcessed] (images/bamazon_customer_order_processed.png)
+        * ![ProductList] (images/bamazon_customer_product_list.png)
     2. bamazonManager
-        * ![AddNewProduct] (./images/bamazon_manager_add_new_product.png)
-        * ![LowInventory] (./images/bamazon_manager_low_inventory.png)
-        * ![NewInventoryQuantity] (./images/bamazon_manager_new_inventory_quantity.png)
-        * ![OpenMenu] (./images/bamazon_manager_open_menu.png)
-        * ![ShowInventory] (./images/bamazon_manager_show_inventory.png)
+        * ![AddNewProduct] (images/bamazon_manager_add_new_product.png)
+        * ![LowInventory] (images/bamazon_manager_low_inventory.png)
+        * ![NewInventoryQuantity] (images/bamazon_manager_new_inventory_quantity.png)
+        * ![OpenMenu] (images/bamazon_manager_open_menu.png)
+        * ![ShowInventory] (images/bamazon_manager_show_inventory.png)
 
 5. Link to app: https://github.com/RyanGelow/bamazon
 
